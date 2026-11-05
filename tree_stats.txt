@@ -1,0 +1,50 @@
+p1 tree
+Total tables: 252
+Total goals: 28
+Recorded nodes: 252
+
+
+p2 tree
+Total tables: 594
+Total goals: 66
+Recorded nodes: 594
+
+
+p3 tree
+Total tables: 4,340
+Total goals: 440
+Recorded nodes: 4,340
+
+
+p4 tree
+Total tables: 25,955
+Total goals: 964
+Recorded nodes: 25,955
+
+
+p5 tree
+Total tables: 81,340
+Total goals: 6,364
+Recorded nodes: 81,340
+
+
+p6 tree
+Total tables: 833
+Total goals: 0
+Recorded nodes: 833
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
