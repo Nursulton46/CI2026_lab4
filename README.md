@@ -1,5 +1,5 @@
 # CI2026_lab4
-Search algorithms for solving the Klotski puzzle.
+Search algorithms for solving the Klotski puzzle. See the report
 
 
 ----------------------------------------*
